@@ -9,19 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**					2020-2021 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........:
-**				ÖĞRENCİ ADI............:EMİR ÖNDER DEMİRCAN
-**				ÖĞRENCİ NUMARASI.......:b191210450
-**              DERSİN ALINDIĞI GRUP...:1-A
-****************************************************************************/
-
 namespace b191210450
 {
     public partial class Form1 : Form
